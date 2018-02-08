@@ -31,5 +31,4 @@ Also ran bulk Silicon and Germanium
 **Transmission**
 Set up and ran Transmission scripts to investigate phonon frequencies at interface and confined regions.
 
-THIS WAS ADDED BY PAUL REMOTELY TEST TEST
-ANOTHER ONE
+THIS WAS ADDED BY PAUL REMOTELY TEST TEST. ANOTHER ONE
