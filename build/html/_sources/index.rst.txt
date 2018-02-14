@@ -14,7 +14,7 @@ Welcome to Test_Project's documentation!
    paul_project
    NEMD
    Transmission
-
+   Ty
 
 .. image:: lattice.jpg
 
