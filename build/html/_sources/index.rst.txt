@@ -15,7 +15,8 @@ Welcome to Test_Project's documentation!
    NEMD
    Transmission
    Ty
-
+   Vitaly
+   
 .. image:: lattice.jpg
 
 
