@@ -11,8 +11,7 @@ Vitaly's Project
 
 .. image:: Fig2.jpg
 
-* Calculated Seebeck coefficient, electrical conductivity, electronic thermal
-conductivity, and power factor for bulk Si and bulk Si with different types and positions of interstitial defects.
+* Calculated Seebeck coefficient, electrical conductivity, electronic thermal conductivity, and power factor for bulk Si and bulk Si with different types and positions of interstitial defects.
 
 .. image:: Fig8.jpg
 
