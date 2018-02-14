@@ -16,7 +16,8 @@ Welcome to Test_Project's documentation!
    Transmission
    Ty
    Vitaly
-   
+   Manoj
+  
 .. image:: lattice.jpg
 
 
